@@ -1,7 +1,18 @@
 {
-    "launcher": "v2.15.13-mzy.13",
+    "launcher": "v2.15.14-mzy.14",
     "updated_at": "2026-10-04",
     "changelog": [
+        {
+            "version": "v2.15.14-mzy.14",
+            "date": "2026-10-04",
+            "title": "全部下载/更新源切换国内镜像 + 移除境外源",
+            "content": [
+                "下载源：版本清单 / 游戏库 / 资源文件 / Java 运行时 一律优先 BMCLAPI 国内镜像，不再优先访问官方境外源",
+                "更新/公告：启动时更新检查与公告改从自家 apc.camzy.uno 拉取，移除境外更新服务器（GitHub / pysio / naids）",
+                "主页：停用境外预设（PCL 官方仪表盘 / Bangumi / PCL CE 公告栏）",
+                "联机：EasyTier 下载改走 GitHub + 国内加速镜像"
+            ]
+        },
         {
             "version": "v2.15.13-mzy.13",
             "date": "2026-10-04",
