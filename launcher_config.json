@@ -1,5 +1,5 @@
 {
-  "version": "v2.15.8-mzy.8",
+  "version": "v2.15.9-mzy.9",
   "minimum_version": "v2.15.1-mzy.1",
   "mandatory_update": false,
   "downloads": {
@@ -20,5 +20,6 @@
       "version": "1.21.1"
     }
   ],
-  "note": "启动器远程配置。features 为功能开关；启动器启动时拉取本文件判断更新与开关。"
+  "note": "启动器远程配置。features 为功能开关；启动器启动时拉取本文件判断更新与开关。",
+  "updated_at": "2026-10-04"
 }
