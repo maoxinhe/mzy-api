@@ -1,7 +1,17 @@
 {
-    "launcher": "v2.15.14-mzy.14",
+    "launcher": "v2.15.15-mzy.15",
     "updated_at": "2026-10-04",
     "changelog": [
+        {
+            "version": "v2.15.15-mzy.15",
+            "date": "2026-10-04",
+            "title": "修复XAML报错+破解自定义主题色+软件信息页优化",
+            "content": [
+                "修复服务页 XamlParseException 崩溃（BtnCopyServer_Click 等事件签名不匹配）",
+                "移除「获取官方快照版」广告，解锁自定义主题色（配色选「自定义」+输入十六进制色）",
+                "软件信息页头像渲染优化，切换更流畅"
+            ]
+        },
         {
             "version": "v2.15.14-mzy.14",
             "date": "2026-10-04",
