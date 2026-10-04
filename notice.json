@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "title": "欢迎来到梦之韵",
+  "content": "服务器已开放！整合包与模组更新请使用启动器内「服务」页。\n游玩过程中遇到问题可联系管理团队。",
+  "button_text": "访问官网",
+  "button_url": "https://www.camzy.tech",
+  "once_per_session": true,
+  "note": "弹窗公告。enabled=false 即关闭；once_per_session 表示每次启动只弹一次。"
+}
