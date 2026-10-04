@@ -1,12 +1,12 @@
 {
-  "latest": "v2.15.12-mzy.12",
-  "minimum": "v2.15.1-mzy.1",
-  "mandatory": false,
-  "urls": {
-    "x64": "https://github.com/maoxinhe/mzy-pro/releases/latest/download/MengZhiYunPro-x64.exe",
-    "arm64": "https://github.com/maoxinhe/mzy-pro/releases/latest/download/MengZhiYunPro-arm64.exe"
-  },
-  "release_page": "https://github.com/maoxinhe/mzy-pro/releases",
-  "note": "更新说明见 changelog.json",
-  "updated_at": "2026-10-04"
+    "latest": "v2.15.13-mzy.13",
+    "minimum": "v2.15.1-mzy.1",
+    "mandatory": false,
+    "urls": {
+        "x64": "https://github.com/maoxinhe/mzy-pro/releases/latest/download/MengZhiYunPro-x64.exe",
+        "arm64": "https://github.com/maoxinhe/mzy-pro/releases/latest/download/MengZhiYunPro-arm64.exe"
+    },
+    "release_page": "https://github.com/maoxinhe/mzy-pro/releases",
+    "note": "更新说明见 changelog.json",
+    "updated_at": "2026-10-04"
 }
