@@ -1,5 +1,5 @@
 {
-  "latest": "v2.15.8-mzy.8",
+  "latest": "v2.15.9-mzy.9",
   "minimum": "v2.15.1-mzy.1",
   "mandatory": false,
   "urls": {
@@ -7,5 +7,6 @@
     "arm64": "https://github.com/maoxinhe/mzy-pro/releases/latest/download/MengZhiYunPro-arm64.exe"
   },
   "release_page": "https://github.com/maoxinhe/mzy-pro/releases",
-  "note": "更新说明见 changelog.json"
+  "note": "更新说明见 changelog.json",
+  "updated_at": "2026-10-04"
 }
