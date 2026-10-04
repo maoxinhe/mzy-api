@@ -1,7 +1,18 @@
 {
-  "launcher": "v2.15.11-mzy.11",
+  "launcher": "v2.15.12-mzy.12",
   "updated_at": "2026-10-04",
   "changelog": [
+    {
+      "version": "v2.15.12-mzy.12",
+      "date": "2026-10-04",
+      "title": "自建 Yggdrasil 认证服务器上线，离线玩家可第三方登录进服",
+      "content": [
+        "新增：玩家门户「我的账号」生成 Yggdrasil 登录码，离线玩家也能用 SSO 账号登录进服",
+        "新增：服务页「第三方登录（离线玩家）」指引卡片，一键打开玩家门户 / 复制认证服务器地址",
+        "新增：Yggdrasil 服务端（authlib-injector 兼容）部署完成：固定 UUID、默认皮肤、10 分钟一次性登录码",
+        "数据源：全部数据继续走自家 Cloudflare Worker（apc.camzy.uno / player.camzy.uno）"
+      ]
+    },
     {
       "version": "v2.15.11-mzy.11",
       "date": "2026-10-04",
