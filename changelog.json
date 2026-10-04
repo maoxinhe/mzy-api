@@ -1,7 +1,15 @@
 {
-  "launcher": "v2.15.9-mzy.9",
+  "launcher": "v2.15.10-mzy.10",
   "updated_at": "2026-10-04",
   "changelog": [
+    {
+      "version": "v2.15.10-mzy.10",
+      "date": "2026-10-04",
+      "title": "移除白名单功能",
+      "content": [
+        "移除启动器内「查询白名单」功能（服务器未开启白名单）"
+      ]
+    },
     {
       "version": "v2.15.9-mzy.9",
       "date": "2026-10-04",
