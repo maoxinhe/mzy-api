@@ -1,0 +1,24 @@
+{
+  "version": "v2.15.7-mzy.7",
+  "minimum_version": "v2.15.1-mzy.1",
+  "mandatory_update": false,
+  "downloads": {
+    "x64": "https://github.com/maoxinhe/mzy-pro/releases/latest/download/MengZhiYunPro-x64.exe",
+    "arm64": "https://github.com/maoxinhe/mzy-pro/releases/latest/download/MengZhiYunPro-arm64.exe"
+  },
+  "release_page": "https://github.com/maoxinhe/mzy-pro/releases",
+  "features": {
+    "mod_updater": true,
+    "notice_popup": true,
+    "server_status": true,
+    "pack_installer": true
+  },
+  "servers": [
+    {
+      "name": "梦之韵",
+      "address": "remv.top:11111",
+      "version": "1.21.1"
+    }
+  ],
+  "note": "启动器远程配置。features 为功能开关；启动器启动时拉取本文件判断更新与开关。"
+}
