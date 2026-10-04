@@ -1,0 +1,17 @@
+{
+  "_comment": "整合包清单。每个包：id 唯一、name 显示名、version 版本、download 下载地址、sha256 校验、requires 需要的加载器、description 描述。",
+  "packs": [
+    {
+      "id": "mzy-survival",
+      "name": "梦之韵生存包",
+      "version": "1.0.0",
+      "minecraft": "1.20.1",
+      "loader": "forge",
+      "download": "https://github.com/maoxinhe/mzy-pro/releases/latest/download/mzy-survival.zip",
+      "sha256": "",
+      "size": 0,
+      "description": "服务器生存整合包，含优化与常用模组",
+      "installed": false
+    }
+  ]
+}

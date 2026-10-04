@@ -1,0 +1,19 @@
+{
+  "_comment": "模组更新清单。files: 需要下载/更新的模组（文件名+sha256 校验）；delete: 需要从玩家 mods 目录删除的模组。与 cdn.liminalily.com 的格式兼容。",
+  "files": [
+    {
+      "name": "jei-1.20.1.jar",
+      "sha256": "REPLACE_WITH_ACTUAL_SHA256",
+      "size": 0,
+      "note": "JEI 物品管理器（示例条目，接入时替换为真实模组）"
+    },
+    {
+      "name": "map-optimizer-1.20.1.jar",
+      "sha256": "REPLACE_WITH_ACTUAL_SHA256",
+      "size": 0,
+      "note": "地图优化（示例条目，接入时替换为真实模组）"
+    }
+  ],
+  "delete": [],
+  "remove": []
+}
