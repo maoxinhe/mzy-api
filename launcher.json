@@ -1,12 +1,12 @@
 {
-    "latest": "v2.15.15-mzy.15",
+    "latest": "v2.15.28-mzy.28",
     "minimum": "v2.15.1-mzy.1",
     "mandatory": false,
     "urls": {
         "x64": "https://github.com/maoxinhe/mzy-pro/releases/latest/download/MengZhiYunPro-x64.exe",
-        "arm64": "https://github.com/maoxinhe/mzy-pro/releases/latest/download/MengZhiYunPro-arm64.exe"
+        "arm64": "https://github.com/maoxinhe/mzy-pro/releases/latest/download/MengZhiYunPro-x64.exe"
     },
     "release_page": "https://github.com/maoxinhe/mzy-pro/releases",
-    "note": "更新说明见 changelog.json",
-    "updated_at": "2026-10-04"
+    "note": "梦之韵Pro 2.15.28：云端更新体系重构——启动器启动自动上报版本、智谱智能判断是否更新；下载走 OneDrive/GitHub 国内可达。",
+    "updated_at": "2026-10-05"
 }
