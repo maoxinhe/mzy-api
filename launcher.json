@@ -1,5 +1,5 @@
 {
-    "latest": "v2.15.28-mzy.31",
+    "latest": "v2.15.28-mzy.32",
     "minimum": "v2.15.1-mzy.1",
     "mandatory": false,
     "urls": {
@@ -7,6 +7,6 @@
         "arm64": "https://apc.camzy.uno/dl/MengZhiYunPro-x64.exe"
     },
     "release_page": "https://github.com/maoxinhe/mzy-pro/releases",
-    "note": "梦之韵Pro 2.15.31：启动器界面全面整理——「联机」改名为「工具」并将游戏联机入口并入；「论坛」折叠进「关于」页（内置 WebView）；移除与关于页重复的设置分组、收敛标签栏为五项，导航更清晰；清理废弃重复页面。下载改走 Cloudflare R2（apc.camzy.uno/dl，国内可达），沿用自签根证书 + DigiCert 时间戳签名。",
+    "note": "梦之韵Pro 2.15.32 热修复：修复启动器初始化期间鼠标事件导致的 NullReferenceException 崩溃；重新生成 UTF-8 编码自签代码签名证书，解决 Windows 签名者名称乱码；同步更新根证书指纹与 /cert 分发，信任引导可正常安装根证书。下载改走 Cloudflare R2（apc.camzy.uno/dl，国内可达）。",
     "updated_at": "2026-10-05"
 }

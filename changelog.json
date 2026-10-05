@@ -1,7 +1,18 @@
 {
-    "launcher": "v2.15.28-mzy.31",
+    "launcher": "v2.15.28-mzy.32",
     "updated_at": "2026-10-05",
     "changelog": [
+        {
+            "version": "v2.15.28-mzy.32",
+            "date": "2026-10-05",
+            "title": "热修复：崩溃 + 签名乱码 + 根证书分发",
+            "content": [
+                "修复：启动器初始化完成前鼠标事件触发 FormMain_MouseDown 空引用崩溃，导致无法使用",
+                "修复：重新生成 UTF-8 编码的自签代码签名证书，解决 Windows 文件属性页「签名者名称」乱码",
+                "修复：同步更新根证书指纹与 /cert 分发，首次启动或「关于→软件更新→安装根证书」可正常安装受信任根证书",
+                "下载继续走 Cloudflare R2（apc.camzy.uno/dl，国内可达）"
+            ]
+        },
         {
             "version": "v2.15.28-mzy.31",
             "date": "2026-10-05",
