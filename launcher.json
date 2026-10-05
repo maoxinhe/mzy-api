@@ -1,5 +1,5 @@
 {
-    "latest": "v2.15.28-mzy.29",
+    "latest": "v2.15.28-mzy.30",
     "minimum": "v2.15.1-mzy.1",
     "mandatory": false,
     "urls": {
@@ -7,6 +7,6 @@
         "arm64": "https://github.com/maoxinhe/mzy-pro/releases/latest/download/MengZhiYunPro-x64.exe"
     },
     "release_page": "https://github.com/maoxinhe/mzy-pro/releases",
-    "note": "梦之韵Pro 2.15.29：新增根证书信任引导——首次启动弹窗或「设置-更新」可一键安装根证书，消除「未知发布者」警告；下载走 OneDrive/GitHub 国内可达。",
+    "note": "梦之韵Pro 2.15.30：启动即推送云端公告弹窗；新增根证书信任引导——「设置-更新」可一键安装根证书，消除「未知发布者」警告；下载走 OneDrive/GitHub 国内可达。",
     "updated_at": "2026-10-05"
 }
