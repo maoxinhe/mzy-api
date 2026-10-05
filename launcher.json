@@ -3,10 +3,10 @@
     "minimum": "v2.15.1-mzy.1",
     "mandatory": false,
     "urls": {
-        "x64": "https://github.com/maoxinhe/mzy-pro/releases/latest/download/MengZhiYunPro-x64.exe",
-        "arm64": "https://github.com/maoxinhe/mzy-pro/releases/latest/download/MengZhiYunPro-x64.exe"
+        "x64": "https://apc.camzy.uno/dl/MengZhiYunPro-x64.exe",
+        "arm64": "https://apc.camzy.uno/dl/MengZhiYunPro-x64.exe"
     },
     "release_page": "https://github.com/maoxinhe/mzy-pro/releases",
-    "note": "梦之韵Pro 2.15.31：启动器界面全面整理——「联机」改名为「工具」并将游戏联机入口并入；「论坛」折叠进「关于」页（内置 WebView）；移除与关于页重复的设置分组、收敛标签栏为五项，导航更清晰；清理废弃重复页面。沿用自签根证书 + DigiCert 时间戳签名。",
+    "note": "梦之韵Pro 2.15.31：启动器界面全面整理——「联机」改名为「工具」并将游戏联机入口并入；「论坛」折叠进「关于」页（内置 WebView）；移除与关于页重复的设置分组、收敛标签栏为五项，导航更清晰；清理废弃重复页面。下载改走 Cloudflare R2（apc.camzy.uno/dl，国内可达），沿用自签根证书 + DigiCert 时间戳签名。",
     "updated_at": "2026-10-05"
 }
