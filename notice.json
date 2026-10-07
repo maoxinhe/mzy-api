@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "title": "梦之韵Pro v2.15.30 已发布",
+  "title": "MCY Pro v2.15.55 已发布",
   "content": "本次更新：启动即推送云端公告；并新增「根证书信任引导」——可在「设置-更新」一键安装根证书，消除启动器的“未知发布者”警告。\n如遇下载/运行问题，欢迎联系管理团队。",
   "button_text": "查看更新日志",
   "button_url": "https://github.com/maoxinhe/mzy-pro/releases",
